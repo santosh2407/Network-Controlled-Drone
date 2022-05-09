@@ -6,3 +6,5 @@ Hey there!
 - In this project laptop acts the transmitter in through a python script the commands are transmitter to the controller. 
 - This drone is configured with PID constants as well, to ensure the better stability of the drone. 
 - Here, we need to tune the PID constants while testing for the reduction of the errors in the stability. 
+# Check for More Information
+- [Project Page](https://santosh-projects.blogspot.com/2022/04/network-controlled-quadcopter.html)
